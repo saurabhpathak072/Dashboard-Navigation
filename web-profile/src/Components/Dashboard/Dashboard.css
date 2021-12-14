@@ -1,0 +1,35 @@
+.dashboard .contactDetail .contactDetail__role{
+    font-size: var(--mediumFont);
+}
+.dashboard .contactDetail .contactDetail__phone{
+    font-size: var(--smallFont);
+}
+.dashboard .contactDetail .contactDetail__oldprofile a{
+    font-size: var(--smallFont);
+    text-decoration: none;
+}
+.dashboard .contactDetail .contactDetail__phone a{
+    text-decoration: none;
+    color: black;
+}
+.dashboard .contactDetail .contactDetail__email a{
+    text-decoration: none;
+    color: black;
+}
+
+.Home__Profile__Name .contactDetail__linkdin{
+    margin-right:25px;
+}
+
+.Home__Profile__Name .contactDetail__linkdin a{
+    text-decoration: none;
+    font-size: var(--mediumFont);
+}
+
+.contactDetail{
+    padding: 1px 5px;
+}
+
+.about p{
+    margin-left: 12px;
+}

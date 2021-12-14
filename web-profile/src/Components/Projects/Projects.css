@@ -1,0 +1,8 @@
+#projects b{
+    font-size: var(--mediumFont);
+}
+
+.projects iframe{
+    height: 500px;
+    width: 100%;
+}
