@@ -82,8 +82,7 @@ const Projects = () => {
             <div>
               <p>
                 Create an website for Beach Resort where customer can view various rooms and
-                services. Customer can filter room according to their choice. GitHub repo:
-                https://github.com/saurabhpathak072/beach-resort
+                services. Customer can filter room according to their choice.
               </p>
             </div>
           </div>
@@ -100,8 +99,7 @@ const Projects = () => {
               <p>
                 This Application is used to track the stocks prices, Buy stocks and calculate
                 Profit/Loss Future scope for this application is adding chart/graph to show previous
-                prices of that stocks Technology used: React JS, Axios, Bootstrap, Firebase GitHub
-                Code Link:https://github.com/saurabhpathak072/financial-portfolio
+                prices of that stocks Technology used: React JS, Axios, Bootstrap, Firebase
               </p>
             </div>
           </div>
